@@ -71,14 +71,6 @@ Key findings:
 - **American put premium**: 6.0896 vs 5.5735 for the European put, an early-exercise premium of about 0.516.
 - **Greeks**: analytical values match central finite differences to better than 1e-6.
 
-<p align="center">
-  <img src="docs/images/mc_standard_error.png" width="48%" alt="Monte Carlo standard error">
-  <img src="docs/images/binomial_convergence.png" width="48%" alt="Binomial tree convergence">
-</p>
-<p align="center">
-  <img src="docs/images/american_vs_european_put.png" width="48%" alt="American vs European put">
-</p>
-
 ## Project structure
 
 ```
